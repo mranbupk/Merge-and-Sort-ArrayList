@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.Scanner;
 
-public class MergeSort {
+public class Solution {
 	static int count = 0;
 	static void input(ArrayList<Integer> list) {
 		Scanner sc = new Scanner(System.in);
